@@ -12,7 +12,7 @@ function ConvertDegreesFToC(degreesF)
 let temperatureInF = 76;
 let temperatureInC;
 
-temperatureInC = ConvertDegreesFToC(TemperatureInF);
+temperatureInC = ConvertDegreesFToC(temperatureInF);
 
 // 1) We need to invoke our conversion function with the
 //      76-degrees Fahrenheit variable and store the
